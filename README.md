@@ -3,7 +3,7 @@
 > nuxt + express + mongoose + passport
 
 ## Things to Sprint
-### Backend
+### Server
 - [x] mongoose connection
 - [x] passport ready
 - [x] passport-local-strategy
