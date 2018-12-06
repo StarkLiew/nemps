@@ -47,8 +47,8 @@ $ yarn start
 # generate static project
 $ yarn run generate
 
-# server test
-$ yarn run test - not ready, fixing live routering test
+# server test (live api route test not ready)
+$ yarn run test 
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
