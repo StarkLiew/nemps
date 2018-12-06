@@ -17,16 +17,20 @@
 - [ ] passport-google-strategy
 - [ ] passport-github-strategy
 - [ ] passport-linkedin-strategy
+- [ ] mailer
+- [ ] multi-tenant ready
 
 ### Vue Frontend
 - [x] visitor layout
 - [x] user layout
 - [x] user signup
 - [x] user login
-- [ ] user forgot
+- [ ] user reset password
 - [ ] user profile
+- [ ] user reset password
 - [ ] store vuex state
 - [ ] dashboard
+- [ ] pwa ready
 
 # Test
 > mocha + chai
