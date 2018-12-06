@@ -1,6 +1,6 @@
-# salun
+# NEMP Starter
 
-> salun POS
+> nuxt + express + mongoose + passport
 
 ## Build Setup
 
