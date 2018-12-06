@@ -11,8 +11,8 @@
 - [x] user model
 - [x] user controller
 - [x] user api route
-- [o] jwt
-- [o] secure route api
+- [ ] jwt - in progress
+- [ ] secure route api - in progress
 - [ ] passport-facebook-strategy
 - [ ] passport-google-strategy
 - [ ] passport-github-strategy
@@ -48,7 +48,7 @@ $ yarn start
 $ yarn run generate
 
 # server test
-$ yarn run test
+$ yarn run test - not ready, fixing live routering test
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
