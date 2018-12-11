@@ -1,5 +1,14 @@
 const { User } = require('../models')
 
+
+exports.signin = () => {
+
+}
+
+exports.signout = () => {
+  
+}
+
 /**
  * GET /api/users
  * Create a new local account.
